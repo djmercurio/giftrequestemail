@@ -2,7 +2,7 @@ Giftrequestemail::Application.routes.draw do
   resources :form
   #get "form/index"
   get "form/formdisplay"
-  get 'welcome' => 'form#index'
+  get 'welcome' => 'home#index'
   #get 'design' => 'home#design'
   controller :sessions do
     get 'login' => :new
