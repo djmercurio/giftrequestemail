@@ -1,0 +1,18 @@
+<h1>Form Submissions</h1>
+<p>Data from each user who has used the form.</p>
+<% @subs.each do |sub| %>
+	<h2><%= sub.email %></h2>
+	<p> 
+	<b>Name: </b><%= sub.name %>
+	<b>Size: </b><%= sub.size %>
+	<b>Due Date: </b><%= sub.dueMonth %> <%= sub.dueDay %>, <%= sub.dueYear %>
+	<b>Giver Name: </b><%= sub.gName %>
+	<b>Giver Email: </b><%= sub.gEmail %>
+	<b>Relationship: </b><%= sub.gRelationship %>
+	
+
+	</p>
+	<hr />
+<% end %>
+
+

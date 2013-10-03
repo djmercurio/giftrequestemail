@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  email: MyString
+  size: MyString
+  dueDay: 1
+  dueMonth: 1
+  dueYear: 1
+  gName: MyString
+  gRelationship: MyString
+  gEmail: MyString
+
+two:
+  name: MyString
+  email: MyString
+  size: MyString
+  dueDay: 1
+  dueMonth: 1
+  dueYear: 1
+  gName: MyString
+  gRelationship: MyString
+  gEmail: MyString
