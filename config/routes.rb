@@ -2,7 +2,7 @@ Giftrequestemail::Application.routes.draw do
   resources :form
   #get "form/index"
   get "form/formdisplay"
-  get 'welcome' => 'form#index'
+  get 'welcome' => 'home#index'
   #get 'design' => 'home#design'
   controller :sessions do
     get 'login' => :new
@@ -10,7 +10,7 @@ Giftrequestemail::Application.routes.draw do
     get 'auth/shopify/callback' => :show
     delete 'logout' => :destroy
   end
-  root :to => 'form#index'
+  root :to => 'home#index'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
