@@ -3,5 +3,5 @@
 <b><%= link_to "Link to form", new_form_path %>
 <br>
 <%= link_to "View form entries", form_index_path %><br>
-<%= link_to "Download entries as CSV" %>
+<%= link_to "Download entries as CSV", form_index_path(format: "csv") %>
 </b>

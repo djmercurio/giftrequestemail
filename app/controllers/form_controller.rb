@@ -6,6 +6,10 @@ class FormController < ApplicationController
 
   def index
   		@subs = Submission.all
+  		respond_to do |format|
+  			format.html
+  			format.csv { render text: @subs.to_csv }
+  		end
   end
 
   def show
