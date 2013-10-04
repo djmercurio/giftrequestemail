@@ -34,7 +34,7 @@ class FormController < ApplicationController
   	gRelationship = all[:gRelationship]
   	gName = all[:gName]
   	gEmail = all[:gEmail]
-  	img_path = "http://localhost:3000/"
+  	img_path = "http://agile-badlands-9768.herokuapp.com/"
   	if @sub.save
   		htm_part1 = 	"<html>
 					<head>
