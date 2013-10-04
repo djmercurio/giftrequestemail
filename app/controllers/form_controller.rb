@@ -130,8 +130,8 @@ class FormController < ApplicationController
 		options = { :address              => "smtp.gmail.com",
             :port                 => 587,
             :domain               => 'your.host.name',
-            :user_name            => 'dj42nwer@gmail.com',
-            :password             => 'j42nweR1',
+            :user_name            => 'gifts.preggonista@gmail.com',
+            :password             => 'passwordpassword!',
             :authentication       => 'plain',
             :enable_starttls_auto => true  }
 
@@ -176,8 +176,8 @@ class FormController < ApplicationController
 		options = { :address              => "smtp.gmail.com",
             :port                 => 587,
             :domain               => 'your.host.name',
-            :user_name            => 'dj42nwer@gmail.com',
-            :password             => 'j42nweR1',
+            :user_name            => 'gifts.preggonista@gmail.com',
+            :password             => 'passwordpassword!',
             :authentication       => 'plain',
             :enable_starttls_auto => true  }
 
@@ -221,8 +221,8 @@ class FormController < ApplicationController
 		options = { :address              => "smtp.gmail.com",
             :port                 => 587,
             :domain               => 'your.host.name',
-            :user_name            => 'dj42nwer@gmail.com',
-            :password             => 'j42nweR1',
+            :user_name            => 'gifts.preggonista@gmail.com',
+            :password             => 'passwordpassword!',
             :authentication       => 'plain',
             :enable_starttls_auto => true  }
 
@@ -265,8 +265,8 @@ class FormController < ApplicationController
 		options = { :address              => "smtp.gmail.com",
             :port                 => 587,
             :domain               => 'your.host.name',
-            :user_name            => 'dj42nwer@gmail.com',
-            :password             => 'j42nweR1',
+            :user_name            => 'gifts.preggonista@gmail.com',
+            :password             => 'passwordpassword!',
             :authentication       => 'plain',
             :enable_starttls_auto => true  }
 
@@ -308,8 +308,8 @@ class FormController < ApplicationController
 		options = { :address              => "smtp.gmail.com",
             :port                 => 587,
             :domain               => 'your.host.name',
-            :user_name            => 'dj42nwer@gmail.com',
-            :password             => 'j42nweR1',
+            :user_name            => 'gifts.preggonista@gmail.com',
+            :password             => 'passwordpassword!',
             :authentication       => 'plain',
             :enable_starttls_auto => true  }
 
@@ -352,8 +352,8 @@ class FormController < ApplicationController
 		options = { :address              => "smtp.gmail.com",
             :port                 => 587,
             :domain               => 'your.host.name',
-            :user_name            => 'dj42nwer@gmail.com',
-            :password             => 'j42nweR1',
+            :user_name            => 'gifts.preggonista@gmail.com',
+            :password             => 'passwordpassword!',
             :authentication       => 'plain',
             :enable_starttls_auto => true  }
 
@@ -395,8 +395,8 @@ class FormController < ApplicationController
 		options = { :address              => "smtp.gmail.com",
             :port                 => 587,
             :domain               => 'your.host.name',
-            :user_name            => 'dj42nwer@gmail.com',
-            :password             => 'j42nweR1',
+            :user_name            => 'gifts.preggonista@gmail.com',
+            :password             => 'passwordpassword!',
             :authentication       => 'plain',
             :enable_starttls_auto => true  }
 
