@@ -1,7 +1,7 @@
 require 'mail'
 
 class FormController < ApplicationController
-  http_basic_authenticate_with :name => "dan", :password => "pass", :only => "index"
+  http_basic_authenticate_with :name => "Admin", :password => "withstyle", :only => "index"
 
 
   def index
