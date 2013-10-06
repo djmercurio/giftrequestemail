@@ -127,11 +127,11 @@ class FormController < ApplicationController
 		
 			msg = htm_part1 + text + htm_part2
 
-		options = { :address              => "smtp.gmail.com",
-            :port                 => 587,
-            :domain               => 'your.host.name',
-            :user_name            => 'gifts.preggonista@gmail.com',
-            :password             => 'passwordpassword!',
+		options = { :address              => "smtpout.secureserver.net",
+            :port                 => 80,
+            :domain               => 'preggonista.com',
+            :user_name            => 'gift@preggonista.com',
+            :password             => 'withstyle',
             :authentication       => 'plain',
             :enable_starttls_auto => true  }
 
@@ -173,11 +173,11 @@ class FormController < ApplicationController
 
   			msg = htm_part1 + text + htm_part2
 
-		options = { :address              => "smtp.gmail.com",
-            :port                 => 587,
-            :domain               => 'your.host.name',
-            :user_name            => 'gifts.preggonista@gmail.com',
-            :password             => 'passwordpassword!',
+		options = { :address              => "smtpout.secureserver.net",
+            :port                 => 80,
+            :domain               => 'preggonista.com',
+            :user_name            => 'gift@preggonista.com',
+            :password             => 'withstyle',
             :authentication       => 'plain',
             :enable_starttls_auto => true  }
 
@@ -218,11 +218,11 @@ class FormController < ApplicationController
 
   			msg = htm_part1 + text + htm_part2
 
-		options = { :address              => "smtp.gmail.com",
-            :port                 => 587,
-            :domain               => 'your.host.name',
-            :user_name            => 'gifts.preggonista@gmail.com',
-            :password             => 'passwordpassword!',
+		options = { :address              => "smtpout.secureserver.net",
+            :port                 => 80,
+            :domain               => 'preggonista.com',
+            :user_name            => 'gift@preggonista.com',
+            :password             => 'withstyle',
             :authentication       => 'plain',
             :enable_starttls_auto => true  }
 
@@ -262,11 +262,11 @@ class FormController < ApplicationController
 
   			msg = htm_part1 + text + htm_part2
 
-		options = { :address              => "smtp.gmail.com",
-            :port                 => 587,
-            :domain               => 'your.host.name',
-            :user_name            => 'gifts.preggonista@gmail.com',
-            :password             => 'passwordpassword!',
+		options = { :address              => "smtpout.secureserver.net",
+            :port                 => 80,
+            :domain               => 'preggonista.com',
+            :user_name            => 'gift@preggonista.com',
+            :password             => 'withstyle',
             :authentication       => 'plain',
             :enable_starttls_auto => true  }
 
@@ -305,11 +305,11 @@ class FormController < ApplicationController
 
   			msg = htm_part1 + text + htm_part2
 
-		options = { :address              => "smtp.gmail.com",
-            :port                 => 587,
-            :domain               => 'your.host.name',
-            :user_name            => 'gifts.preggonista@gmail.com',
-            :password             => 'passwordpassword!',
+		options = { :address              => "smtpout.secureserver.net",
+            :port                 => 80,
+            :domain               => 'preggonista.com',
+            :user_name            => 'gift@preggonista.com',
+            :password             => 'withstyle',
             :authentication       => 'plain',
             :enable_starttls_auto => true  }
 
@@ -349,11 +349,11 @@ class FormController < ApplicationController
 
   			msg = htm_part1 + text + htm_part2
 
-		options = { :address              => "smtp.gmail.com",
-            :port                 => 587,
-            :domain               => 'your.host.name',
-            :user_name            => 'gifts.preggonista@gmail.com',
-            :password             => 'passwordpassword!',
+		options = { :address              => "smtpout.secureserver.net",
+            :port                 => 80,
+            :domain               => 'preggonista.com',
+            :user_name            => 'gift@preggonista.com',
+            :password             => 'withstyle',
             :authentication       => 'plain',
             :enable_starttls_auto => true  }
 
@@ -392,11 +392,11 @@ class FormController < ApplicationController
 
   			msg = htm_part1 + text + htm_part2
 
-		options = { :address              => "smtp.gmail.com",
-            :port                 => 587,
-            :domain               => 'your.host.name',
-            :user_name            => 'gifts.preggonista@gmail.com',
-            :password             => 'passwordpassword!',
+		options = { :address              => "smtpout.secureserver.net",
+            :port                 => 80,
+            :domain               => 'preggonista.com',
+            :user_name            => 'gift@preggonista.com',
+            :password             => 'withstyle',
             :authentication       => 'plain',
             :enable_starttls_auto => true  }
 
