@@ -1,5 +1,6 @@
 class HomeController < ApplicationController
-  
+  http_basic_authenticate_with :name => "Admin", :password => "withstyle", :only => "index"
+
   around_filter :shopify_session, :except => 'welcome'
   
   def welcome
