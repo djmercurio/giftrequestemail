@@ -285,7 +285,7 @@ class FormController < ApplicationController
 
   		if all[:gRelationship] == "Best friend"
   			#declare text
-		text ="<b>Dear #{gFirstName}</b>,\r\n\r\n <br /><br />
+		text ="<b>Dear #{gName}</b>,\r\n\r\n <br /><br />
 		Your bestie, <b>#{name},</b> is having a baby and she wants a <a href=\"http://www.preggonista.com\">Preggonista</a> Gift Box!<br /><br />
 		A Preggonista -- pregnant + fashionista -- Gift Box is the perfect acknowledgement of her beauty during pregnancy. It contains:<br />
 		<ul>
