@@ -197,7 +197,7 @@ class FormController < ApplicationController
 
   		if all[:gRelationship] == "Dad"
 
-  			text ="<b>Dear #{gFirstName}</b>,\r\n\r\n <br /><br />
+  			text ="<b>Dear #{gName}</b>,\r\n\r\n <br /><br />
 		Your baby, <b>#{name},</b> is having a baby and she wants a <a href=\"http://www.preggonista.com\">Preggonista</a> Gift Box!<br /><br />
 		A Preggonista -- pregnant + fashionista -- Gift Box is the perfect acknowledgement of her beauty during pregnancy. It contains:<br />
 		<ul>
@@ -328,7 +328,7 @@ class FormController < ApplicationController
 
   		if all[:gRelationship] == "Coworker"
   			#declare text
-  			text ="<b>Dear #{gFirstName}</b>,\r\n\r\n <br /><br />
+  			text ="<b>Dear #{gName}</b>,\r\n\r\n <br /><br />
 		Your favorite co-worker, <b>#{name},</b> is having a baby and she wants a <a href=\"http://www.preggonista.com\">Preggonista</a> Gift Box!<br /><br />
 		A Preggonista -- pregnant + fashionista -- Gift Box is the perfect acknowledgement of her beauty during pregnancy. It contains:<br />
 		<ul>
@@ -372,7 +372,7 @@ class FormController < ApplicationController
 
   		if all[:gRelationship] == "Other"
   			#declare text
-  			text ="<b>Dear #{gFirstName}</b>,\r\n\r\n <br /><br />
+  			text ="<b>Dear #{gName}</b>,\r\n\r\n <br /><br />
 		<b>#{name}</b> is having a baby and she wants a <a href=\"http://www.preggonista.com\">Preggonista</a> Gift Box!<br /><br />
 		A Preggonista -- pregnant + fashionista -- Gift Box is the perfect acknowledgement of her beauty during pregnancy. It contains:<br />
 		<ul>
