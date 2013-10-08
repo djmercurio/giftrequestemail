@@ -142,7 +142,7 @@ class FormController < ApplicationController
 			Mail.deliver do
 				content_type 'text/html; charset=UTF-8'
 				to all[:gEmail]
-				from 'gifts@preggonista.com'
+				from 'Preggonista@preggonista.com'
 				subject "This will make #{all[:name]} HAPPY!"
 				body msg
 			end
@@ -188,7 +188,7 @@ class FormController < ApplicationController
 			Mail.deliver do
 				content_type 'text/html; charset=UTF-8'
 				to all[:gEmail]
-				from 'gifts@preggonista.com'
+				from 'Preggonista@preggonista.com'
 				subject "This will make #{all[:name]} HAPPY!"
 				body msg
 			end
@@ -233,7 +233,7 @@ class FormController < ApplicationController
 			Mail.deliver do
 				content_type 'text/html; charset=UTF-8'
 				to all[:gEmail]
-				from 'gifts@preggonista.com'
+				from 'Preggonista@preggonista.com'
 				subject "This will make #{all[:name]} HAPPY!"
 				body msg
 			end
@@ -277,7 +277,7 @@ class FormController < ApplicationController
 			Mail.deliver do
 				content_type 'text/html; charset=UTF-8'
 				to all[:gEmail]
-				from 'gifts@preggonista.com'
+				from 'Preggonista@preggonista.com'
 				subject "This will make #{all[:name]} HAPPY!"
 				body msg
 			end
@@ -320,7 +320,7 @@ class FormController < ApplicationController
 			Mail.deliver do
 				content_type 'text/html; charset=UTF-8'
 				to all[:gEmail]
-				from 'gifts@preggonista.com'
+				from 'Preggonista@preggonista.com'
 				subject "This will make #{all[:name]} HAPPY!"
 				body msg
 			end
@@ -364,7 +364,7 @@ class FormController < ApplicationController
 			Mail.deliver do
 				content_type 'text/html; charset=UTF-8'
 				to all[:gEmail]
-				from 'gifts@preggonista.com'
+				from 'Preggonista@preggonista.com'
 				subject "This will make #{all[:name]} HAPPY!"
 				body msg
 			end
@@ -407,7 +407,7 @@ class FormController < ApplicationController
 			Mail.deliver do
 				content_type 'text/html; charset=UTF-8'
 				to all[:gEmail]
-				from 'gifts@preggonista.com'
+				from 'Preggonista@preggonista.com'
 				subject "This will make #{all[:name]} HAPPY!"
 				body msg
 			end
