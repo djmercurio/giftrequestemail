@@ -80,13 +80,14 @@ src: url('Cabin-regular.otf'),
 }
 .submitbutton
 {
-	-moz-border-radius: 20px;
--webkit-border-radius: 20px;
--khtml-border-radius: 20px;
-border-radius: 20px;
+	-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+-khtml-border-radius: 10px;
+border-radius: 10px;
 color: white;
 background-color: #df1f8f;
-
+width:125px;
+height:40px;
 
 }
 
@@ -240,7 +241,7 @@ background-color: #df1f8f;
 
 
 
-<h1>Request a gift</h1>
+<h1>Request a Gift</h1>
 <!-- <table>
 <tr> -->
 <div class="span6">
@@ -274,7 +275,7 @@ background-color: #df1f8f;
 
 
 </p>
-<%= s.submit "Submit", class: 'submitbutton' %>
+
 
 </div>
 <div class="span4">
@@ -296,8 +297,8 @@ background-color: #df1f8f;
 Relationship
 <font  color="red">*</font>
 </b><br />
-<%= s.select :gRelationship, options_for_select(%w[Dad-to-be Mom Dad Sister Bestfriend Coworker Other]) %>
-
+<%= s.select :gRelationship, options_for_select([["Dad-to-be"], ["Mom"], ["Dad"], ["Sister"], ["Best friend"], ["Coworker"],["Other"]]) %><br /><br /><br />
+<%= s.submit "Submit", class: 'submitbutton' %>
 </p>
 <!-- </td>
 </tr>

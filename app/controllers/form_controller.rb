@@ -283,7 +283,7 @@ class FormController < ApplicationController
 			end
   		end
 
-  		if all[:gRelationship] == "Bestfriend"
+  		if all[:gRelationship] == "Best friend"
   			#declare text
 		text ="<b>Dear #{gFirstName}</b>,\r\n\r\n <br /><br />
 		Your bestie, <b>#{name},</b> is having a baby and she wants a <a href=\"http://www.preggonista.com\">Preggonista</a> Gift Box!<br /><br />
