@@ -1,6 +1,7 @@
 Giftrequestemail::Application.routes.draw do
   resources :form
   #get "form/index"
+  post "form" => 'form#create'
   get "form/formdisplay"
   get 'welcome' => 'home#index'
   #get 'design' => 'home#design'
