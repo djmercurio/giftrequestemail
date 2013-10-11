@@ -118,7 +118,7 @@ class FormController < ApplicationController
 		 What's more, she'll get a Style Guide that will show her 12 different ways she can wear her wrap <b>DRESS</b> -- all to help minimize the number of maternity CLOTHING items she'll need to buy!<br /><br />
 		 In addition to the Gift Box, we also offer a monthly Style Box of fashionable goodies on a subscription basis. Each month, she'll have a surprise to look forward to. 
 		 Statistics show that the chances of you having a Pregozilla on your hands are fairly low. Yet, every pregnant woman deserves a little extra attention. Below are all the details you need to know to order a Gift Box from Preggonista.<br /><br />
-		 <b>HOW TO ORDER</b><br /> #{name}'s Size: #{size}<br />#{name}'s Due Date: #{dueMonth}/#{dueDay}/#{dueYear}<br /><br /><img src=\"#{img_path}bottom_09.jpg\"><br />Visit <a href=\"http://www.preggonista.com/pages/dad-to-be\">www.preggonista.com</a><br /><br />We're here to help if you have questions!<br /><br />With style,<br /> <img src=\"#{img_path}psg.png\"> <br />Your friends at Preggonista
+		 <b>HOW TO ORDER</b><br /> #{name}'s Size: #{size}<br />#{name}'s Due Date: #{dueMonth}/#{dueDay}/#{dueYear}<br /><br /><img src=\"#{img_path}icon_small.jpg\"><br />Visit <a href=\"http://www.preggonista.com/pages/dad-to-be\">www.preggonista.com</a><br /><br />We're here to help if you have questions!<br /><br />With style,<br /> <img src=\"#{img_path}psg.png\"> <br />Your friends at Preggonista
 		 <br /><br /><b>P.S., here's a quick list of answers for the most popular questions we've heard:</b><br />
 			<ul>
 			<li><b>Q:</b> What if she doesn't like it? | <b>A:</b> She can return it and receive a gift card in exchange!</li>
@@ -163,7 +163,7 @@ class FormController < ApplicationController
 		What's more, your daughter will get a Style Guide that will show her 12 different ways she can wear her wrap <b>DRESS</b> -- all to help minimize the number of maternity CLOTHING items she'll need to buy!<br /><br />
 		In addition to the Gift Box, we also offer a monthly Style Box of fashionable goodies on a subscription basis. Each month, she'll have a surprise to look forward to. 
 		Statistics show that the chances of you having a Pregozilla on your hands are fairly low. Yet, every pregnant woman deserves a little extra attention. Below are all the details you need to know to order a Gift Box from Preggonista.<br /><br />
-		<b>HOW TO ORDER</b><br /> #{name}'s Size: #{size}<br />#{name}'s Due Date: #{dueMonth}/#{dueDay}/#{dueYear}<br /><br /><img src=\"#{img_path}bottom_09.jpg\"><br />Visit <a href=\"http://www.preggonista.com/collections/buy-gift\">www.preggonista.com</a><br /><br />We're here to help if you have questions!<br /><br />With style,<br /> <img src=\"#{img_path}psg.png\"> Your friends at Preggonista
+		<b>HOW TO ORDER</b><br /> #{name}'s Size: #{size}<br />#{name}'s Due Date: #{dueMonth}/#{dueDay}/#{dueYear}<br /><br /><img src=\"#{img_path}icon_small.jpg\"><br />Visit <a href=\"http://www.preggonista.com/collections/buy-gift\">www.preggonista.com</a><br /><br />We're here to help if you have questions!<br /><br />With style,<br /> <img src=\"#{img_path}psg.png\"> Your friends at Preggonista
 		<br /><br /><b>P.S., here's a quick list of answers for the most popular questions we've heard:</b><br />
 			<ul>
 			<li><b>Q:</b> What if she doesn't like it? | <b>A:</b> She can return it and receive a gift card in exchange!</li>
@@ -208,7 +208,7 @@ class FormController < ApplicationController
 		What's more, your daughter will get a Style Guide that will show her 12 different ways she can wear her wrap <b>DRESS</b> -- all to help minimize the number of maternity CLOTHING items she'll need to buy!<br /><br />
 		In addition to the Gift Box, we also offer a monthly Style Box of fashionable goodies on a subscription basis. Each month, she'll have a surprise to look forward to. 
 		Statistics show that the chances of you having a Pregozilla on your hands are fairly low. Yet, every pregnant woman deserves a little extra attention. Below are all the details you need to know to order a Gift Box from Preggonista.<br /><br />
-		<b>HOW TO ORDER</b><br /> #{name}'s Size: #{size}<br />#{name}'s Due Date: #{dueMonth}/#{dueDay}/#{dueYear}<br /><br /><img src=\"#{img_path}bottom_09.jpg\"><br />Visit <a href=\"http://www.preggonista.com/collections/buy-gift\">www.preggonista.com</a><br /><br />We're here to help if you have questions!<br /><br />With style,<br /> <img src=\"#{img_path}psg.png\"> Your friends at Preggonista
+		<b>HOW TO ORDER</b><br /> #{name}'s Size: #{size}<br />#{name}'s Due Date: #{dueMonth}/#{dueDay}/#{dueYear}<br /><br /><img src=\"#{img_path}icon_small.jpg\"><br />Visit <a href=\"http://www.preggonista.com/collections/buy-gift\">www.preggonista.com</a><br /><br />We're here to help if you have questions!<br /><br />With style,<br /> <img src=\"#{img_path}psg.png\"> Your friends at Preggonista
 		<br /><br /><b>P.S., here's a quick list of answers for the most popular questions we've heard:</b><br />
 			<ul>
 			<li><b>Q:</b> What if she doesn't like it? | <b>A:</b> She can return it and receive a gift card in exchange!</li>
@@ -252,7 +252,7 @@ class FormController < ApplicationController
 		What's more, your sister will get a Style Guide that will show her 12 different ways she can wear her wrap <b>DRESS</b> -- all to help minimize the number of maternity CLOTHING items she'll need to buy!<br /><br />
 		In addition to the Gift Box, we also offer a monthly Style Box of fashionable goodies on a subscription basis. Each month, she'll have a surprise to look forward to. 
 		Statistics show that the chances of you having a Pregozilla on your hands are fairly low. Yet, every pregnant woman deserves a little extra attention. Below are all the details you need to know to order a Gift Box from Preggonista.<br /><br />
-		<b>HOW TO ORDER</b><br /> #{name}'s Size: #{size}<br />#{name}'s Due Date: #{dueMonth}/#{dueDay}/#{dueYear}<br /><br /><img src=\"#{img_path}bottom_09.jpg\"><br />Visit <a href=\"http://www.preggonista.com/collections/buy-gift\">www.preggonista.com</a><br /><br />We're here to help if you have questions!<br /><br />With style,<br /> <img src=\"#{img_path}psg.png\"> Your friends at Preggonista
+		<b>HOW TO ORDER</b><br /> #{name}'s Size: #{size}<br />#{name}'s Due Date: #{dueMonth}/#{dueDay}/#{dueYear}<br /><br /><img src=\"#{img_path}icon_small.jpg\"><br />Visit <a href=\"http://www.preggonista.com/collections/buy-gift\">www.preggonista.com</a><br /><br />We're here to help if you have questions!<br /><br />With style,<br /> <img src=\"#{img_path}psg.png\"> Your friends at Preggonista
 		<br /><br /><b>P.S., here's a quick list of answers for the most popular questions we've heard:</b><br />
 			<ul>
 			<li><b>Q:</b> What if she doesn't like it? | <b>A:</b> She can return it and receive a gift card in exchange!</li>
@@ -296,7 +296,7 @@ class FormController < ApplicationController
 		What's more, your girl will get a Style Guide that will show her 12 different ways she can wear her wrap <b>DRESS</b> -- all to help minimize the number of maternity CLOTHING items she'll need to buy!<br /><br />
 		In addition to the Gift Box, we also offer a monthly Style Box of fashionable goodies on a subscription basis. Each month, she'll have a surprise to look forward to. 
 		Statistics show that the chances of you having a Pregozilla on your hands are fairly low. Yet, every pregnant woman deserves a little extra attention. Below are all the details you need to know to order a Gift Box from Preggonista.<br /><br />
-		<b>HOW TO ORDER</b><br /> #{name}'s Size: #{size}<br />#{name}'s Due Date: #{dueMonth}/#{dueDay}/#{dueYear}<br /><br /><img src=\"#{img_path}bottom_09.jpg\"><br />Visit <a href=\"http://www.preggonista.com/collections/buy-gift\">www.preggonista.com</a><br /><br />We're here to help if you have questions!<br /><br />With style,<br /> <img src=\"#{img_path}psg.png\"> Your friends at Preggonista
+		<b>HOW TO ORDER</b><br /> #{name}'s Size: #{size}<br />#{name}'s Due Date: #{dueMonth}/#{dueDay}/#{dueYear}<br /><br /><img src=\"#{img_path}icon_small.jpg\"><br />Visit <a href=\"http://www.preggonista.com/collections/buy-gift\">www.preggonista.com</a><br /><br />We're here to help if you have questions!<br /><br />With style,<br /> <img src=\"#{img_path}psg.png\"> Your friends at Preggonista
 		<br /><br /><b>P.S., here's a quick list of answers for the most popular questions we've heard:</b><br />
 			<ul>
 			<li><b>Q:</b> What if she doesn't like it? | <b>A:</b> She can return it and receive a gift card in exchange!</li>
@@ -339,7 +339,7 @@ class FormController < ApplicationController
 		What's more, #{name} will get a Style Guide that will show her 12 different ways she can wear her wrap <b>DRESS</b> -- all to help minimize the number of maternity CLOTHING items she'll need to buy!<br /><br />
 		In addition to the Gift Box, we also offer a monthly Style Box of fashionable goodies on a subscription basis. Each month, she'll have a surprise to look forward to. 
 		Statistics show that the chances of you having a Pregozilla on your hands are fairly low. Yet, every pregnant woman deserves a little extra attention. Below are all the details you need to know to order a Gift Box from Preggonista.<br /><br />
-		<b>HOW TO ORDER</b><br /> #{name}'s Size: #{size}<br />#{name}'s Due Date: #{dueMonth}/#{dueDay}/#{dueYear}<br /><br /><img src=\"#{img_path}bottom_09.jpg\"><br />Visit <a href=\"http://www.preggonista.com/collections/buy-gift\">www.preggonista.com</a><br /><br />We're here to help if you have questions!<br /><br />With style,<br /> <img src=\"#{img_path}psg.png\"> Your friends at Preggonista
+		<b>HOW TO ORDER</b><br /> #{name}'s Size: #{size}<br />#{name}'s Due Date: #{dueMonth}/#{dueDay}/#{dueYear}<br /><br /><img src=\"#{img_path}icon_small.jpg\"><br />Visit <a href=\"http://www.preggonista.com/collections/buy-gift\">www.preggonista.com</a><br /><br />We're here to help if you have questions!<br /><br />With style,<br /> <img src=\"#{img_path}psg.png\"> Your friends at Preggonista
 		<br /><br /><b>P.S., here's a quick list of answers for the most popular questions we've heard:</b><br />
 			<ul>
 			<li><b>Q:</b> What if she doesn't like it? | <b>A:</b> She can return it and receive a gift card in exchange!</li>
@@ -383,7 +383,7 @@ class FormController < ApplicationController
 		What's more, preggonistas get a Style Guide that will show her 12 different ways she can wear her wrap <b>DRESS</b> -- all to help minimize the number of maternity CLOTHING items she'll need to buy!<br /><br />
 		In addition to the Gift Box, we also offer a monthly Style Box of fashionable goodies on a subscription basis. Each month, she'll have a surprise to look forward to. 
 		Statistics show that the chances of you having a Pregozilla on your hands are fairly low. Yet, every pregnant woman deserves a little extra attention. Below are all the details you need to know to order a Gift Box from Preggonista.<br /><br />
-		<b>HOW TO ORDER</b><br /> #{name}'s Size: #{size}<br />#{name}'s Due Date: #{dueMonth}/#{dueDay}/#{dueYear}<br /><br /><img src=\"#{img_path}bottom_09.jpg\"><br />Visit <a href=\"http://www.preggonista.com/collections/buy-gift\">www.preggonista.com</a><br /><br />We're here to help if you have questions!<br /><br />With style,<br /> <img src=\"#{img_path}psg.png\"> Your friends at Preggonista
+		<b>HOW TO ORDER</b><br /> #{name}'s Size: #{size}<br />#{name}'s Due Date: #{dueMonth}/#{dueDay}/#{dueYear}<br /><br /><img src=\"#{img_path}icon_small.jpg\"><br />Visit <a href=\"http://www.preggonista.com/collections/buy-gift\">www.preggonista.com</a><br /><br />We're here to help if you have questions!<br /><br />With style,<br /> <img src=\"#{img_path}psg.png\"> Your friends at Preggonista
 		<br /><br /><b>P.S., here's a quick list of answers for the most popular questions we've heard:</b><br />
 			<ul>
 			<li><b>Q:</b> What if she doesn't like it? | <b>A:</b> She can return it and receive a gift card in exchange!</li>
