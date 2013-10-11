@@ -156,10 +156,10 @@ class FormController < ApplicationController
 		Your baby, <b>#{name},</b> is having a baby and she wants a <a href=\"http://www.preggonista.com\">Preggonista</a> Gift Box!<br /><br />
 		A Preggonista -- pregnant + fashionista -- Gift Box is the perfect acknowledgement of her beauty during pregnancy. It contains:<br />
 		<ul>
-		\t 	<li>Jersey knit wrap <b>DRESS</b></li><br />
-		\t 	<li>Preggonista maternity <b>T-SHIRT</b></li><br />
-		\t 	<li>Fashionable accesory</li><br />
-		\t 	<li>Maternity-related beauty product</li><br /><br /></ul>
+		\t 	<li>Jersey knit wrap <b>DRESS</b></li>
+		\t 	<li>Preggonista maternity <b>T-SHIRT</b></li><
+		\t 	<li>Fashionable accesory</li>
+		\t 	<li>Maternity-related beauty product</li></ul>
 		What's more, your daughter will get a Style Guide that will show her 12 different ways she can wear her wrap <b>DRESS</b> -- all to help minimize the number of maternity CLOTHING items she'll need to buy!<br /><br />
 		In addition to the Gift Box, we also offer a monthly Style Box of fashionable goodies on a subscription basis. Each month, she'll have a surprise to look forward to. 
 		Statistics show that the chances of you having a Pregozilla on your hands are fairly low. Yet, every pregnant woman deserves a little extra attention. Below are all the details you need to know to order a Gift Box from Preggonista.<br /><br />
@@ -201,10 +201,10 @@ class FormController < ApplicationController
 		Your baby, <b>#{name},</b> is having a baby and she wants a <a href=\"http://www.preggonista.com\">Preggonista</a> Gift Box!<br /><br />
 		A Preggonista -- pregnant + fashionista -- Gift Box is the perfect acknowledgement of her beauty during pregnancy. It contains:<br />
 		<ul>
-		\t 	<li>Jersey knit wrap <b>DRESS</b></li><br />
-		\t 	<li>Preggonista maternity <b>T-SHIRT</b></li><br />
-		\t 	<li>Fashionable accesory</li><br />
-		\t 	<li>Maternity-related beauty product</li><br /><br /></ul>
+		\t 	<li>Jersey knit wrap <b>DRESS</b></li>
+		\t 	<li>Preggonista maternity <b>T-SHIRT</b></li>
+		\t 	<li>Fashionable accesory</li>
+		\t 	<li>Maternity-related beauty product</li></ul>
 		What's more, your daughter will get a Style Guide that will show her 12 different ways she can wear her wrap <b>DRESS</b> -- all to help minimize the number of maternity CLOTHING items she'll need to buy!<br /><br />
 		In addition to the Gift Box, we also offer a monthly Style Box of fashionable goodies on a subscription basis. Each month, she'll have a surprise to look forward to. 
 		Statistics show that the chances of you having a Pregozilla on your hands are fairly low. Yet, every pregnant woman deserves a little extra attention. Below are all the details you need to know to order a Gift Box from Preggonista.<br /><br />
