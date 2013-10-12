@@ -104,7 +104,7 @@ class FormController < ApplicationController
 		end
 
 		if dueDay.blank? or dueMonth.blank? or dueYear.blank?
-			dueString = "Not Specified"
+			dueString = "Not specified"
 		else
 			dueString = dueMonth + "/" + dueDay + "/" + dueYear
 		end
